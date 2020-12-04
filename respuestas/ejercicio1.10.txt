@@ -1,0 +1,3 @@
+cd respuestas
+
+touch ejercicio1.10.txt
